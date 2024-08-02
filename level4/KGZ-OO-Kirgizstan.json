@@ -1,12 +1,12 @@
 {
     "type": "FeatureCollection",
-    "name": "KGZ-OO-Kirgizistan",
+    "name": "KGZ-OO-Kirgizstan",
     "features": [
         {
             "type": "Feature",
             "properties": {
                 "LEVEL4_COD": "KGZ-OO",
-                "LEVEL4_NAM": "Kirgizistan"
+                "LEVEL4_NAM": "Kirgizstan"
             },
             "geometry": {
                 "type": "Polygon",

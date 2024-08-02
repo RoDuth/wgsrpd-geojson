@@ -1,12 +1,12 @@
 {
     "type": "FeatureCollection",
-    "name": "KGZ-Kirgizistan",
+    "name": "KGZ-Kirgizstan",
     "features": [
         {
             "type": "Feature",
             "properties": {
                 "LEVEL3_COD": "KGZ",
-                "LEVEL3_NAM": "Kirgizistan"
+                "LEVEL3_NAM": "Kirgizstan"
             },
             "geometry": {
                 "type": "Polygon",
